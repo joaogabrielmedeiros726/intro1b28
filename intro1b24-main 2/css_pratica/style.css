@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(186, 225, 149);
+}
+
+.texto{
+    font-size: 35px; /*tamanho da fonte */
+    line-height: 40px; /* entre linhas */
+    color: rgb(183, 26, 26); /* cor da fonte*/
+    font-style: italic; */ estilo da fonte*/
+    font-weight: bold; /* largura da fonte */
+    text-align: left; */alinhamento de texto*/
+
+    
+}
+.texto a{
+    color: rgb(94, 224, 94);
+    text-decoration: nonme;
+    text-transform: uppercase;
+    font-family: impact;
+    
+    
+
+}
+.borda{
+    width: 500px;
+    border: 5px solid #000000;
+    margin-top: 40px;
+    padding: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+     
+}
+    .lista{
+        list-style-position: inside;
+        /*posicao do marcador insider/outlsider*/
+        list-style-type: square;
+        /*disc circle square decimal*/
+
+    }
+
+        
+    
